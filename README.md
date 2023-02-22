@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 I am Maksims, a developer from the United Kingdom! I first got involved with programming at the age of 10 when I discovered I could create games on the platform, Roblox. Ever since, I have practiced my programming skills within numerous fields including front-end development and back-end development.
 
 # Programming Languages
